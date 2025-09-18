@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    body {
+      background-color: #dce2f0; /* pale lavender gray */
+    }
+
+    .maf {
+      background-color: #2e294e; /* deep space purple */
+      margin-bottom: 1%;
+      text-align: center;
+      padding-top: 50px;
+      color: #f7f4ea; /* soft ivory */
+      border-radius: 10px;
+    }
+
+    .large_one {
+      background-color: #476a6f; /* steel teal */
+      width: 40%;
+      height: 200px;
+      float: left;
+    }
+
+    .one {
+      background-color: #f4a261; /* muted apricot */
+      width: 19%;
+      height: 98px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .two {
+      background-color: #a44a3f; /* warm brick red */
+      width: 19%;
+      height: 98px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .three {
+      background-color: #6a4c93; /* rich violet indigo */
+      width: 19%;
+      height: 98px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .four {
+      background-color: #e36414; /* burnt orange clay */
+      width: 19%;
+      height: 98px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .five {
+      background-color: #577590; /* dusk blue */
+      width: 19%;
+      height: 98px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .six {
+      background-color: #bc6c25; /* desert bronze */
+      width: 19%;
+      height: 98px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .large_two {
+      background-color: #ede0d4; /* warm cream beige */
+    }
+
+    .l_one {
+      background-color: #3d405b; /* charcoal indigo */
+      width: 24.5%;
+      height: 100px;
+      float: left;
+      margin-bottom: 1%;
+    }
+
+    .l_two {
+      background-color: #e07a5f; /* faded terracotta */
+      width: 24.5%;
+      height: 100px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .l_three {
+      background-color: #81b29a; /* dusty jade green */
+      width: 24%;
+      height: 100px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .l_four {
+      background-color: #f2cc8f; /* golden sand */
+      width: 24%;
+      height: 100px;
+      float: left;
+      margin-left: 1%;
+      margin-bottom: 1%;
+    }
+
+    .fsmall {
+      background-color: #9a8c98; /* vintage mauve */
+      width: 60%;
+      height: 210px;
+      float: right;
+      border-radius: 10px;
+    }
+
+    .fsmall2 {
+      background-color: #264653; /* deep petrol blue */
+      width: 39%;
+      height: 100px;
+      float: left;
+      margin-right: 1%;
+      margin-bottom: 1%;
+    }
+
+    .fbig {
+      background-color: #a98467; /* earthy brown-beige */
+      width: 39%;
+      height: 100px;
+      float: left;
+      margin-right: 1%;
+      margin-bottom: 1%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="maf">HMD/CSS/2024/0388</div>
+
+  <!-- first set of containers -->
+  <div class="large_one"></div>
+  <div class="one"></div>
+  <div class="two"></div>
+  <div class="three"></div>
+  <div class="four"></div>
+  <div class="five"></div>
+  <div class="six"></div>
+  <br><br><br>
+
+  <!-- second set of containers -->
+  <div class="large_two">
+    <div class="l_one"></div>
+    <div class="l_two"></div>
+    <div class="l_three"></div>
+    <div class="l_four"></div>
+  </div>
+
+  <!-- last set of containers -->
+  <div class="fsmall"></div>
+  <div class="fsmall2"></div>
+  <div class="fbig"></div>
+
+  <!--NAME: AKU AKOLO DANJUMA
+      MAT-NO: HND/CSS/2024/0388-->
+
+</body>
+</html>
